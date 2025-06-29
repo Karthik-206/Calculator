@@ -1,2 +1,2 @@
 # Calculator
-I created calculator using tkinter module in python .
+I created a calculator using tkinter module in python .
